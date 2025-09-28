@@ -25,7 +25,7 @@ tagline:
 # this description might appear in search result lists, keep around 160 characters max
 description: "Using digitized historical newspapers and periodicals, this project considers the reception of Eudora Welty, both how she was presented to and perceived by readers in her time, as well as where and when news about her work and life was published."
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
-keywords: t
+keywords:
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Melissa Fox
 
