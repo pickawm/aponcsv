@@ -18,16 +18,16 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-csv
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: A Piece of News
+title: 
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Digital Collection Magic with Static Web Technologies
+tagline:
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-CSV is a template for creating digital collection exhibits using static web technology."
+description: "Using digitized historical newspapers and periodicals, this project considers the reception of Eudora Welty, both how she was presented to and perceived by readers in her time, as well as where and when news about her work and life was published."
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
-keywords: idaho; history; inland northwest
+keywords: t
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: Melissa Fox
 
 ##########
 # COLLECTION SETTINGS
@@ -50,16 +50,16 @@ metadata: aponcsv
 #   Enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 #   To remove the branding, comment out these values, or delete them. 
 #
-organization-name: "Center for Digital Inquiry and Learning (CDIL)"
-organization-link: https://cdil.lib.uidaho.edu/
-organization-logo-banner: https://www.lib.uidaho.edu/collectionbuilder/cdil-black.png
-organization-logo-nav: https://www.lib.uidaho.edu/collectionbuilder/cdil-white.png
+organization-name: Millsaps Digital Welty Lab
+organization-link: https://weltylab.org
+organization-logo-banner: 
+organization-logo-nav:
 
 ##########
 # ROBOTS EXCLUDE
 #
 # set noindex to true if you do NOT want Google to index your site
-# noindex: true 
+ noindex: true 
 
 ##########
 # BUILD SETTINGS 
