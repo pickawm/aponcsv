@@ -2,3 +2,11 @@
     Put your custom SCSS here! 
     This allows you to override any CollectionBuilder or Bootstrap CSS without modifying the base theme files directly.
 */
+#home-banner {
+	background-image: url('/aponcsv/objects/apon_banner.png');
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	padding: 75px;
+	/* padding-bottom: ; */
+}
