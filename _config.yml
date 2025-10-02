@@ -8,7 +8,7 @@
 # URL VARIABLES
 #
 # site domain, full URL to the production location of your collection
-url: https://pickawm.github.io/aponcsv/
+url: 
 # path to location on the domain if necessary e.g. /digital/hjccc
 baseurl: 
 # location of code, the full url to your github repository
@@ -18,7 +18,7 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-csv
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: A Piece of News
+title: 
 # tagline, a short phrase that will appear throughout the site in the top banner
 tagline:
 # description appears in meta tags and other locations
@@ -49,11 +49,11 @@ metadata: aponcsv
 # Site/Organization Branding 
 #   Enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 #   To remove the branding, comment out these values, or delete them. 
-
- organization-name: Millsaps College
- organization-link: 
- organization-logo-banner: 
- organization-logo-nav:
+#
+organization-name: Millsaps Digital Welty Lab
+organization-link: https://weltylab.org
+organization-logo-banner: 
+organization-logo-nav:
 
 ##########
 # ROBOTS EXCLUDE
