@@ -50,10 +50,10 @@ metadata: aponcsv
 #   Enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 #   To remove the branding, comment out these values, or delete them. 
 #
-organization-name: Millsaps Digital Welty Lab
-organization-link: https://weltylab.org
-organization-logo-banner: 
-organization-logo-nav:
+#organization-name: Millsaps Digital Welty Lab
+#organization-link: https://weltylab.org
+#organization-logo-banner: 
+#organization-logo-nav:
 
 ##########
 # ROBOTS EXCLUDE
