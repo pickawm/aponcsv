@@ -52,8 +52,8 @@ metadata: aponcsv
 #
 organization-name: Millsaps Digital Welty Lab
 organization-link: https://weltylab.org
-organization-logo-banner: 
-organization-logo-nav: 
+organization-logo-banner: https://weltylab.org/img/WeltyLabLogo.svg
+organization-logo-nav: https://weltylab.org/img/logo.jpg
 
 ##########
 # ROBOTS EXCLUDE
