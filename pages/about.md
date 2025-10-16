@@ -24,6 +24,6 @@ Due to syndication, there are many instances in which an article is repeated in 
 
 This project is about the instances in which Eudora Welty was a resounding headline in *The New York Times* as much as it is about the instances in which Eudora Welty was a gentle murmur, a brief mention in her local paper. 
 
-# About the Principle Investigator
+# About the Principal Investigator
 
 Melissa Fox is a writer and independent scholar who has published pieces in Michigan History Magazine, West Michigan Modern, Owl Canyon Press, and the Eudora Welty Review. Melissa has a BA in English and a Masters Degree in Library Science, both from Indiana University. She worked in libraries for 10 years, most recently in the History and Special Collections Department at the Grand Rapids Public Library. Melissa was the recipient of the 2023 Gordon Olson Award from the Kutsche Office of Local History at Grand Valley State University and was awarded the 2025 Eudora Welty Review research grant.
