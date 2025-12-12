@@ -13,4 +13,4 @@ The graphs and infographics included on this page provide a glimpse of the kind 
 
 While there are so many more articles to add to this project, it's possible to beign to delve into these questions via a capsule collection. The 171 articles on *The Shoe Bird* are the most complete, that is these are all the articles on *The Shoe Bird* that I have found, across several databases and other sources, and so represent a capsule of data that can be considered on its own, as well as being extrapolated to the collection as a whole. 
 
-{% include feature/image.html objectid="images.apieceofnews.org/static/state_graph" width="75" %}
+{% include feature/image.html objectid="images.apieceofnews.org/static/state_graph.jpg" width="75" %}
