@@ -2,11 +2,22 @@
     Put your custom SCSS here! 
     This allows you to override any CollectionBuilder or Bootstrap CSS without modifying the base theme files directly.
 */
-#home-banner {
-	background-image: url('/aponcsv/objects/apon_banner.png');
-	background-size: cover;
-	background-repeat: no-repeat;
-	background-position: center;
-	padding: 75px;
-	/* padding-bottom: ; */
+@import url('https://fonts.googleapis.com/css2?family=Gilda+Display&display=swap');
+
+.gilda-display-regular {
+  font-family: "Gilda Display", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.display-4 {
+	font-size: calc(1.475rem + 2.7vw);
+	font-weight: 300;
+	line-height: 1.2;
+	font-family: "Gilda Display";
+}
+
+.mb-0 {
+	margin-bottom: 0 !important;
+	font-family: "Gilda Display", serif;
 }
